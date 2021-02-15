@@ -1,0 +1,3 @@
+rootProject.name='Custom paging with filter'
+include ':app'
+include ':filterpaging'
